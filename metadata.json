@@ -1,0 +1,5 @@
+{
+  "name": " MULTIPOS",
+  "description": "A comprehensive Point of Sale (POS) application for managing products and processing orders with full CRUD functionality, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
